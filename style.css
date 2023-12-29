@@ -1,0 +1,80 @@
+body{
+    background-color:rgb(35, 167, 224);
+    border-radius: 50px;
+
+}
+.welcome{
+    color:rgb(0, 255, 110);
+    text-align: center;
+    opacity: 0px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.home{
+    width: 200px;
+    height: 200px;
+    margin-left: 4px;
+    background-color: rgb(77, 255, 0);
+    font-size: 30px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.home:hover{
+    background-color:  rgb(255, 0, 0);
+}
+.contact:hover{
+    background-color:  rgb(255, 0, 0);
+}
+.contact{
+    width: 200px;
+    height: 200px;
+    margin-left: 4px;
+    background-color: rgb(77, 255, 0);
+    font-size: 30px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.material-symbols-outlined {
+      font-variation-settings:
+      'FILL' 0,
+      'wght' 400,
+      'GRAD' 0,
+      'opsz' 24
+    }
+.dark{
+    background-color:rgb(3, 25, 35);
+}   
+.setting{
+    width: 200px;
+    height: 200px;
+    margin-left: 4px;
+    background-color: rgb(77, 255, 0);
+    font-size: 30px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.dark-fix{
+    top: 30px;
+    width: 200px;
+    height: 200px;
+    margin-left: 4px;
+    background-color: rgb(77, 255, 0);
+    font-size: 30px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    position: relative;
+    
+}
