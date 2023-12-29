@@ -78,3 +78,17 @@ body{
     position: relative;
     
 }
+.light-fix{
+    top: 30px;
+    width: 200px;
+    height: 200px;
+    margin-left: 4px;
+    background-color: rgb(77, 255, 0);
+    font-size: 30px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    position: relative;
+}
