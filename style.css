@@ -92,3 +92,6 @@ body{
     color: white;
     position: relative;
 }
+.highlight {
+    background-color: yellow; /* Màu nền khi được chọn */
+}
